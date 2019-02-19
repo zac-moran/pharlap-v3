@@ -1,3 +1,3 @@
 # env - 
 
-import autokeras
+a = 1
